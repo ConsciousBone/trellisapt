@@ -1,0 +1,51 @@
+Package: com.unlimapps.vineplus
+Version: 1.5r-47
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate, com.unlimapps.uasharedtools (>= 2.0r-79)
+Filename: ./debs/vpp.deb
+Size: 647360
+MD5sum: 0c9f3fe1d50f61647cde15b3a33d0b54
+SHA1: 50a60d27a414fd78da89192e7b362f2a320ae341
+SHA256: 7b3959e1e76a4ccb133a53a9a70d162e9bf77fc35cccb254e7a053d6329095ae
+Section: Tweaks
+Description: Download Vine videos to camera roll and disable autoplay.
+Author: UnlimApps Inc. <support@unlimapps.com>
+Installed-Size: 2913
+Name: Vine ++
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: i4iphones
+
+Package: com.bruhdude.vinesslpinningdisabler
+Version: 2.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: bruhdude
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 6.0)
+Filename: ./debs/ssldis.deb
+Size: 3966
+MD5sum: 4f9d73ed35ea63a1366cd699a2e91a3a
+SHA1: 61e813dd66136df6e47f6b7b1720becb3fba860d
+SHA256: 79d75d5b57f4cf120fadcfa89ff1ea723b80743590f96b485150daa0d3b15477
+Section: Tweaks
+Description: Disable SSL pinning in the Vine app. Credits to bruhdude
+Author: bruhdude
+Installed-Size: 136
+Name: vinesslpinningdisabler
+
+Package: com.hackyouriphone.vinedownloader
+Version: 0.0.8-16
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/down.deb
+Size: 15028
+MD5sum: e8936f08c467d77f89ed60337b867768
+SHA1: df16849647a1ee2e09497e84fc20eb8a2376ae25
+SHA256: fa8e19ec484f239701a0126c8b9d46291082fddbe7f5e23b15fa8e9f39d55800
+Section: Tweaks
+Description: Download Vine videos to your camera roll.
+Author: Stevie Hetelekides <repo@hackyouriphone.org>
+Name: VineDownloader
+
+
+
